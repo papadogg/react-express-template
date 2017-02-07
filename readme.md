@@ -1,1 +1,1 @@
-react boilerplate using express as server
+react boilerplate using express as a server
